@@ -1,0 +1,10 @@
+{
+  "name": "Svensk Lönesnurra",
+  "short_name": "Lönesnurra",
+  "description": "Snurra som visar SEK/sek före & efter skatt under arbetstid",
+  "theme_color": "#0ea5e9",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "start_url": ".",
+  "scope": "."
+}
